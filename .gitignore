@@ -1,0 +1,4 @@
+*.pbix.autosave
+~$*.pbix
+.DS_Store
+Thumbs.db
